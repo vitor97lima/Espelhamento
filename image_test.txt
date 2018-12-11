@@ -1,0 +1,3 @@
+/home/vitor/Desenvolvimento/Qt Projects/Espelhamento/img1.jpg
+/home/vitor/Desenvolvimento/Qt Projects/Espelhamento/img2.jpg
+/home/vitor/Desenvolvimento/Qt Projects/Espelhamento/lena.jpg
